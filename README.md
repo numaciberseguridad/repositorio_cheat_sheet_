@@ -15,7 +15,7 @@ Esta es una colección de recursos, guiones y procedimientos fáciles de seguir.
 * [Root Me](https://www.root-me.org/)
 * [Hacker 101](https://ctf.hacker101.com/)
 * [PentesterLab](https://pentesterlab.com/)
-
+* [Hack My VM](https://hackmyvm.eu/)
 
 # Entrenamiento Blue
 
