@@ -1,88 +1,105 @@
-# Project Title
+# ![el hacker etico](https://user-images.githubusercontent.com/73398798/151669992-49f13420-1be7-4221-8eb1-9b7ff5a62639.jpg)
 
-One Paragraph of project description goes here
+# Recopilación de cheat sheet
 
-## Getting Started
+¿Tienes cientos de enlaces guardados? ¿Todos contienen información útil y única? ¿Repositorios de GitHub guardados para más tarde? Bueno, esta es una compilación de todos estos recursos en un solo repositorio. No existirá la necesidad de tener marcado miles de enlaces. No es necesario abrir un navegador web. Todo está en este repositorio.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Esta es una colección de recursos, guiones y procedimientos fáciles de seguir. Me he estado reuniendo (y sigo reuniéndome) en preparación para iniciar el camino de las certificaciones empezando por el eJPT, así como para el pentesting general. ¡Siéntete libre de usar como quieras!
 
-### Prerequisites
+# ¿Donde prácticar?
 
-What things you need to install the software and how to install them
+* [Hack The Box](https://www.hackthebox.com/)
+* [Try Hack Me](https://tryhackme.com/)
+* [VulnHub](https://www.vulnhub.com/)
+* [Attack Defense 1800+ Labs!](https://attackdefense.com/)
+* [Root Me](https://www.root-me.org/)
+* [Hacker 101](https://ctf.hacker101.com/)
+* [PentesterLab](https://pentesterlab.com/)
 
-```
-Give examples
-```
 
-### Installing
+# Entrenamiento Blue
 
-A step by step series of examples that tell you how to get a development env running
+* [CyberDefense](https://cyberdefenders.org/blueteam-ctf-challenges/)
+* [LetsDefend](https://letsdefend.io/)
 
-Say what the step will be
+# Aplicaciones Web Vulnerables
 
-```
-Give the example
-```
+* [Damn Vulnerable WordPress](https://github.com/vavkamil/dvwp)
+* [XSS Game](https://xss-game.appspot.com/)
+* [Owasp Juice shop](https://github.com/juice-shop/juice-shop)
+* [DVWA](https://github.com/digininja/DVWA)
+* [DSVW](https://github.com/stamparm/DSVW)
+* [bWAPP](https://github.com/raesene/bWAPP)
+* [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
+* [lazyweb](https://github.com/RamadhanAmizudin/lazyweb)
+* [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+* [Pentest_lab](https://github.com/oliverwiegers/pentest_lab)
+* [VulnLab](https://github.com/Yavuzlar/VulnLab)
+* [DVNA](https://github.com/appsecco/dvna)
 
-And repeat
+# Aplicaciones para Seguridad Cloud
 
-```
-until finished
-```
+* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+* [CdkGoat - Vulnerable AWS CDK Infra](https://github.com/bridgecrewio/cdkgoat)
+* [Cfngoat - Vulnerable Cloudformation Template](https://github.com/bridgecrewio/cfngoat)
+* [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat)
+* [caponeme - Capital One Breach](https://github.com/avishayil/caponeme)
 
-End with an example of getting some data out of the system or using it for a little demo
+# Auditorias dispositivos móviles
 
-## Running the tests
+* [Android Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/android-testing-guide/0x05b-basic-security_testing)
+* [Allsafe](https://github.com/t0thkr1s/allsafe)
+* [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
+* [InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
+* [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank)
+* [InsecureShop](https://github.com/optiv/InsecureShop)
+* [AndroGoat](https://github.com/satishpatnayak/AndroGoat)
+* [DIVA Android](https://github.com/payatu/diva-android)
+* [OVAA](https://github.com/oversecured/ovaa)
+* [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+# Blogs
 
-Explain what these tests test and why
+* [El Hacker Etico](https://elhackeretico.com/)
+* [Follow The White Rabbit](https://fwhibbit.es/en/)
+* [Flu Project](https://www.flu-project.com/)
+* [Incibe](https://www.incibe.es/protege-tu-empresa/blog)
+* [Dragon Jar](https://www.dragonjar.org/)
+* [hackplayers](https://www.hackplayers.com/)
+* [H1RD SECURITY](https://www.h1rd.com/)
+* [Securiters](https://bitsdeciberseguridad.substack.com/p/01-tambien-en-mi-correo?showWelcome=true)
+* [PortSwigger](https://portswigger.net/blog)
+* [darknet.org.uk](https://www.darknet.org.uk/)
+* [s4vinotes](https://s4vinotes.michellopez.org/)
+* [Infosec House](https://infosec.house/#/)
+* [SecurityZines](https://securityzines.com/)
+* [SecNigma](https://secnigma.wordpress.com/)
+* [The Hacker Recipes](https://www.thehacker.recipes/)
+* [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/)
 
-```
-Give an example
-```
 
-### And coding style tests
 
-Explain what these tests test and why
+# Canales
 
-```
-Give an example
-```
+* [Securiters](https://www.youtube.com/c/Securiters)
+* [dokkillo](https://www.youtube.com/channel/UCrJG0nNSW8TFDs9xuKhEDzw)
+* [CiberINseguro](https://www.youtube.com/c/CiberINseguro)
+* [Julio Ureña](https://www.youtube.com/c/JulioUre%C3%B1a)
+* [s4vitar](https://www.youtube.com/c/s4vitar)
+* [s4vitar secundario](https://www.youtube.com/c/S4viOnLive)
+* [Dragon Jar](https://www.youtube.com/c/DragonJARbiz)
+* [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
 
-## Built With
+# Otros repositorios
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [https://github.com/4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security)
+* [Infosec Reference](https://github.com/rmusser01/Infosec_Reference/)
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
