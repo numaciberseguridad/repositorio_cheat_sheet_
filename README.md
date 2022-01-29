@@ -80,8 +80,6 @@ Esta es una colección de recursos, guiones y procedimientos fáciles de seguir.
 * [The Hacker Recipes](https://www.thehacker.recipes/)
 * [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/)
 
-
-
 # Canales
 
 * [Securiters](https://www.youtube.com/c/Securiters)
@@ -92,14 +90,15 @@ Esta es una colección de recursos, guiones y procedimientos fáciles de seguir.
 * [s4vitar secundario](https://www.youtube.com/c/S4viOnLive)
 * [Dragon Jar](https://www.youtube.com/c/DragonJARbiz)
 * [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
-
-
+* [ShellDred](https://www.youtube.com/channel/UCoCzIejJkl4-5Ds9yZIS9kw)
 
 # Otros repositorios
 
 * [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [https://github.com/4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference/)
+* [https://github.com/Kennyslaboratory/OSCP-Cheatsheet](https://github.com/Kennyslaboratory/OSCP-Cheatsheet)
+* [https://github.com/akenofu/OSCP-Cheat-Sheet](https://github.com/akenofu/OSCP-Cheat-Sheet)
 
 
 
