@@ -79,6 +79,7 @@ Esta es una colección de recursos, guiones y procedimientos fáciles de seguir.
 * [SecNigma](https://secnigma.wordpress.com/)
 * [The Hacker Recipes](https://www.thehacker.recipes/)
 * [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/)
+* [Cheat Sheet eJPT](https://www.marabellisec.com/)
 
 # Canales
 
