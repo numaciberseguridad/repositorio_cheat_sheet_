@@ -100,6 +100,6 @@ Esta es una colección de recursos, guiones y procedimientos fáciles de seguir.
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference/)
 * [https://github.com/Kennyslaboratory/OSCP-Cheatsheet](https://github.com/Kennyslaboratory/OSCP-Cheatsheet)
 * [https://github.com/akenofu/OSCP-Cheat-Sheet](https://github.com/akenofu/OSCP-Cheat-Sheet)
-
+* [https://casvancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/](https://casvancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/)
 
 
